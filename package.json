@@ -1,0 +1,25 @@
+{
+  "name": "qrpc-node",
+  "version": "0.4.2",
+  "description": "a JavaScript library that lets node clients access a qRPC service.",
+  "main": "index.js",
+  "module": "indexjs",
+  "scripts": {
+    "test": "npx nodemon test/."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzf03680147/qrpc-node.git"
+  },
+  "author": "zhuzefu@innotechx.com",
+  "license": "MIT",
+  "homepage": "https://github.com/zzf03680147/qrpc-node#readme",
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.2.0"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "qrpc-web": "^1.0.0"
+  }
+}
