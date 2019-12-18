@@ -1,7 +1,7 @@
 qrpc-node
 ==========================================
 
->  a JavaScript library that lets node,js clients access a qRPC service. You can find out much more about qRPC
+>  a JavaScript library that lets nodejs clients access a qRPC service. You can find out much more about qRPC
 [website](https://github.com/zhiqiangxu/qrpc).
 
 
