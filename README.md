@@ -1,8 +1,7 @@
 qrpc-node
 ==========================================
 
->  a JavaScript library that lets nodejs clients access a qRPC service. You can find out much more about qRPC
-[website](https://github.com/zhiqiangxu/qrpc).
+>  qrpc-node是Node.js语言实现的，通过tcp协议与qRPC[website](https://github.com/zhiqiangxu/qrpc)交互的客户端
 
 
 Install
