@@ -6,7 +6,7 @@ const { Config } = qrpc;
 
 (async function() {
   const client = new Client({
-    addr: '39.106.68.245',
+    addr: '',
     port: 8888,
     conf: new Config({
       dialTimeout: 1000,
