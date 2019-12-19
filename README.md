@@ -1,7 +1,7 @@
 qrpc-node
 ==========================================
 
->  qrpc-node是Node.js语言实现的，通过tcp协议与qRPC[website](https://github.com/zhiqiangxu/qrpc)交互的客户端
+>  qrpc-node是Node.js语言实现、利用tcp协议与[qRPC服务](https://github.com/zhiqiangxu/qrpc)进行交互的客户端程序。
 
 
 Install

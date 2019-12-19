@@ -1,7 +1,7 @@
 {
   "name": "qrpc-node",
-  "version": "0.4.2",
-  "description": "a JavaScript library that lets node clients access a qRPC service.",
+  "version": "0.4.3",
+  "description": "qrpc-node是Node.js语言实现、利用tcp协议与qRPC服务进行交互的客户端程序",
   "main": "index.js",
   "module": "indexjs",
   "scripts": {
