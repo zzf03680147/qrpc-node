@@ -1,6 +1,6 @@
 {
   "name": "qrpc-node",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "qrpc-node是Node.js语言实现、利用tcp协议与qRPC服务进行交互的客户端程序",
   "main": "index.js",
   "module": "indexjs",
